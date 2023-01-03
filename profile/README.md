@@ -4,4 +4,4 @@ Welcome to Exploit Central. We are security researchers looking for cool exploit
 |---|---|---|---|
 |  |  |  |  |
 
-Feel free to use any of our work! We would love a shoutout!
+*Copyright © 2023 Exploit Central*
